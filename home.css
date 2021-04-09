@@ -1,0 +1,63 @@
+
+
+
+body {
+    background-size: cover;
+}
+
+/* header {
+    opacity: .6;
+} */
+
+.navbar-nav{
+    float: right;
+}
+
+.todo {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+.nav-link {
+    border: 2px solid black;
+    margin-right: 20px;
+    border-radius: .3em;
+    padding: 5px;
+}
+
+.nav-link:hover {
+    background-color: gray;
+    
+}
+
+.ml4 {
+    position: relative;
+    font-weight: 900;
+    font-size: 4em;
+    text-align:center;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 10%;
+  }
+  .ml4 .letters {
+    position: absolute;
+    margin: auto;
+    left: 0;
+    top: 0.3em;
+    right: 0;
+    opacity: 0; 
+  }
+
+  .note {
+      background-color: ;
+  }
+
+
+footer {
+    background-color: white;
+    margin-top: 41.1%;
+    padding: 5px;
+    opacity: .6;
+    
+    
+}

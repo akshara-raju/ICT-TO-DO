@@ -1,0 +1,58 @@
+body {
+    background-size: cover;
+}
+
+header {
+    background-color: white;
+    padding: 5px;
+    
+}
+
+.login {
+    border: 2px solid black;
+    text-align: center;
+    padding: 2px;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: white;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: .2em;
+}
+
+.todo {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bolder;
+}
+
+form {
+    border: 2px solid black;
+    margin-left: 3%;
+    margin-right: 70%;
+    margin-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    background-color: white;
+    border-radius: .5em;
+    box-shadow: 5px 5px black;
+    
+}
+
+.quote {
+    float:  right;
+}
+
+.btn {
+    width: 100%;
+    background-color: green;
+}
+
+footer {
+    background-color: white;
+    margin-top: 2%;
+    opacity: .6;
+    
+   
+}
