@@ -33,11 +33,12 @@ body {
 .ml4 {
     position: relative;
     font-weight: 900;
-    font-size: 4em;
+    font-size: 3em;
     text-align:center;
     margin-left: 40%;
     margin-right: 40%;
-    margin-top: 10%;
+    margin-top: 5%;
+    
   }
   .ml4 .letters {
     position: absolute;
@@ -46,6 +47,7 @@ body {
     top: 0.3em;
     right: 0;
     opacity: 0; 
+    
   }
 
   h2 {
@@ -61,7 +63,7 @@ body {
     list-style:none;
   }
   ul{
-      margin-top: 23%;
+      margin-top: 25%;
       
     display: flex;
     flex-wrap: wrap;
@@ -114,7 +116,7 @@ body {
 
 footer {
     background-color: white;
-    margin-top: 5.5%;
+    margin-top: 3.5%;
     padding: 5px;
     opacity: .6;
     
